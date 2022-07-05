@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "152197094428",
+    "project_id": "madical-app-21188",
+    "storage_bucket": "madical-app-21188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152197094428:android:e5279dc71062aa1bf053d9",
+        "android_client_info": {
+          "package_name": "com.example.flatter_test_ahmed_raaed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152197094428-v1lngprrei5m9vts6gctbo4b8i54bi4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flatter_test_ahmed_raaed",
+            "certificate_hash": "7d37014453e4f0b7f64127b998c04b0584144a37"
+          }
+        },
+        {
+          "client_id": "152197094428-9cvim1podk8ifin5eu53cgokt8lq0384.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQy0ZOwzQaWIzr_bKtOf2X7s1cPHJRw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152197094428-9cvim1podk8ifin5eu53cgokt8lq0384.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
